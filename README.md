@@ -21,7 +21,7 @@
 
 This application demonstrates the functionality of a codebase which allows for MySQL database querying and interactions using Express.js for live server control.
 
-[Video Walkthrough]()
+[Video Walkthrough](https://drive.google.com/file/d/1RUN6Q3K1UKFdoG_FMokAEavTkoeohGT5/view)
 
 ---
 
